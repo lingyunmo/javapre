@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="untitled3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="untitled3.jar">
+        <element id="module-output" name="untitled3" />
+      </element>
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" />
+    </root>
+  </artifact>
+</component>
